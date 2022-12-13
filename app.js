@@ -1,7 +1,7 @@
 
 // assigning the api key to variable and the base url of openweathermap.org
 const api = {
-    key: "97cff17f88ccd0bb09dfe2d72a913394",
+    key: "enter your key",
     base: "https://api.openweathermap.org/data/2.5/"
 }
 
